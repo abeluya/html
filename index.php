@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ejemplo de una web con PHP - aprenderaprogramar.com</title>
+<title>Ejemplo</title>
 <meta charset="utf-8">
 </head>
 <body>
@@ -37,6 +37,10 @@
 		</form>
 	</div>
 
-
+	<div>
+		<form action = "login.php" method = "">
+		<input type="submit" value="Login Page">
+		</form>
+	</div>
 </body>
 </html>

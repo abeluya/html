@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "\\\\ATLANTIS\\Web\\html"
+        }
+    ],
+    "settings": {
+        "xdebug": {
+             "url": "http://192.168.1.190",
+        }
+    }
+}
